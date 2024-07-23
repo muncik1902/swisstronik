@@ -1,5 +1,5 @@
 # swisstronik
 
-Hi, I am Nobody
+GM All,
 
-GM Everyday
+This repo for completing task "Swisstronik Testnet 2.0"
